@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.assignment","l":"AssignmentApplication"},{"p":"com.assignment.controller","l":"AssignmentController"},{"p":"com.assignment.dto","l":"Company"},{"p":"com.assignment.dao","l":"CompanyDao"},{"p":"com.assignment.dto","l":"User"},{"p":"com.assignment.dao","l":"UserDao"}]
